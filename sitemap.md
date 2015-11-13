@@ -1,5 +1,6 @@
  * [Home](index.md)
  * [User's Guide](users-guide.md)
+   * [Dagger & Android](android.md)
    * [Multibindings](multibindings.md)
    * [Subcomponents](subcomponents.md)
    * [Migrating from Dagger 1](dagger-1-migration.md)
