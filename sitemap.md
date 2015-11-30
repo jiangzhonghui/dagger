@@ -5,5 +5,6 @@
    * [Subcomponents](subcomponents.md)
    * [Migrating from Dagger 1](dagger-1-migration.md)
    * [Producers](producers.md)
+   * [Testing](testing.md)
  * [Overview](overview.md)
  * [Disambiguation](disambiguation.md)
