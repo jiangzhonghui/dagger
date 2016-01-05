@@ -161,7 +161,11 @@ In this example, when all the producer methods that contribute to this set have
 completed futures, the `Set<Data>` is constructed and the collect() method is
 called.
 
-Map multibindings are similar:
+#### Map multibindings
+
+==As of January 2016, not implemented yet==
+
+Map multibindings are similar to set multibindings:
 
 ```java
 @MapKey @interface DispatchPath {
