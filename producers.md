@@ -163,8 +163,6 @@ called.
 
 #### Map multibindings
 
-==As of January 2016, not implemented yet==
-
 Map multibindings are similar to set multibindings:
 
 ```java
